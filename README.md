@@ -9,6 +9,8 @@ ARIFUL ISLAM(24013592),
 FATTAKHOV OYBEK RUSTAM UGLI(22013110),
 BAKYTOV YELNUR (23013078).
 
+### Explanation Video Drive: *https://drive.google.com/file/d/1m8cgbdnh2yxsjUnsUFFCzPgl-ADPwTls/view?usp=drive_link*
+
 # Jet Engine Health Monitoring System 🛩️
 
 A predictive maintenance system for jet engines using the NASA C-MAPSS dataset. This project builds and compares machine learning and deep learning models to estimate the Remaining Useful Life (RUL) of jet engines, and visualizes engine health through an interactive dashboard.
