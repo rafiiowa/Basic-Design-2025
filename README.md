@@ -1,4 +1,6 @@
 # Basic-Design-2025
+## Instructor: Prof. Abolghasem Sadeghi-Niaraki
+### Project: Evaluating Design Alternatives
 
 # Jet Engine Health Monitoring System 🛩️
 
