@@ -1,6 +1,6 @@
 # Basic-Design-2025
 ## Instructor: Prof. Abolghasem Sadeghi-Niaraki
-### Project: Evaluating Design Alternatives
+### Key Task: Evaluating Design Alternatives
 ### Group 8
 ### Team Members: 
 Nazmul Hassan Rafiyun(24012965)/ **Team Leader**,
