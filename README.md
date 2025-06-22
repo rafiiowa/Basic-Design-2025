@@ -3,12 +3,11 @@
 ### Project: Evaluating Design Alternatives
 ### Group 8
 ### Team Members: 
-Nazmul Hassan Rafiyun(24012965)/ **Team Leader**
-FATTAKHOV OYBEK RUSTAM UGLI(22013110)
-BAKYTOV YELNUR (23013078)
-ARIFUL(24013592)
-MIFTE MEHEDI HASAN(25013445)
-
+Nazmul Hassan Rafiyun(24012965)/ **Team Leader**,
+MIFTE MEHEDI HASAN(25013445),
+ARIFUL ISLAM(24013592),
+FATTAKHOV OYBEK RUSTAM UGLI(22013110),
+BAKYTOV YELNUR (23013078).
 
 # Jet Engine Health Monitoring System 🛩️
 
